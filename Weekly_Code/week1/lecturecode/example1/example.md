@@ -1,2 +1,0 @@
-<iframe height='265' scrolling='no' title='Simple Animation pt1' src='//codepen.io/jreinsel/embed/vgPVyO/?height=265&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/jreinsel/pen/vgPVyO/'>Simple Animation pt1</a> by Joe Reinsel (<a href='https://codepen.io/jreinsel'>@jreinsel</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
