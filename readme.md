@@ -30,17 +30,6 @@ Codepen.io
 Lecture: Algorithms 
 Assignment: 5 sketches using assigned algorithms.
 
-**Week 3**
-Lecture: Lists
-Assignemtn: 5 sketches using lists and external data (pokedex)
 
-**Week 4**
-Lecture: Weather and locaction(API)
-Assignment: Project 1 Proposal
-
-**Week 5**
-Lecture: 
-
-**Week 6**
-Lecture
+More coming soon!
 
