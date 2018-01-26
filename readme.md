@@ -15,21 +15,24 @@ This document is a brief introduction to the course and how we will work through
 We will be meeting in person on **Fridays between 1-4:40pm at the Lions Brothers Building in Hollins Market area of Baltimore City**. There is a shuttle to this class and you will be required to attend each class at this location. Since we will only be meeting one day a week I will only allow an absence for extreme situations with the proper documentation. If any class is missed it will count as a deduction in your overall grade for the course. 
 
 
-Codepen.io
+**Codepen.io**
 
 
-##Git and Github
+## Git and Github
 
 *Weekly Assignments:*
  
  **Week 1**
- Lecture: Introduction: Basic drawing and Interaction
+ Lecture: Introduction: Basic drawing and Interaction and Web
  Assignment: 5 sketches(post to Codepen/Github) *share with Class*
 
 **Week 2**
 Lecture: Algorithms 
 Assignment: 5 sketches using assigned algorithms.
 
+**Week 3**
+Lecture: Drawing and Interaction
+Assignment: 5 sketches using assigned methods using interaction.
 
 More coming soon!
 
